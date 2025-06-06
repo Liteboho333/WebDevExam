@@ -1,4 +1,3 @@
-/* Set overall background and font */
 body {
     background-color: lightgrey;
     font-family: Arial, sans-serif;
@@ -6,7 +5,6 @@ body {
     padding: 0;
 }
 
-/* Header styling */
 header {
     background-color: #4CAF50;
     color: white;
@@ -14,7 +12,6 @@ header {
     padding: 20px;
 }
 
-/* Navigation bar styling */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -33,13 +30,11 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Main content styling */
 main {
     background-color: #ffffff;
     padding: 20px;
 }
 
-/* Footer styling */
 footer {
     background-color: #333;
     color: white;
